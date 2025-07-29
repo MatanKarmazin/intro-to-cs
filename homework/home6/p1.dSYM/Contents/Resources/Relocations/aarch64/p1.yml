@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/matan/dev/CS101-year1-odi/home6/p1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _powerEquation, symObjAddr: 0x0, symBinAddr: 0x100003E0C, symSize: 0x68 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _powerEquation, symObjAddr: 0x0, symBinAddr: 0x100003E0C, symSize: 0x68 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _blabla, symObjAddr: 0x68, symBinAddr: 0x100003E74, symSize: 0xD8 }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x140, symBinAddr: 0x100003F4C, symSize: 0x4C }
+...
